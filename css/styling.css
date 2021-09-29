@@ -1,0 +1,31 @@
+
+main {
+  
+  text-align: center;
+  width: 80%;
+  padding: 2rem 3rem 1rem 1rem;
+  width: 100%;
+  
+}
+input, textarea {
+  min-width: 40%;
+}
+.mainHeader {
+  text-align: center;
+  background-color: lightblue;
+}
+
+.inputAndLabelWrapper {
+  margin-bottom: 1rem;
+}
+
+.inputAndLabelWrapper label, 
+.inputAndLabelWrapper input, 
+.inputAndLabelWrapper textarea {
+  
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  
+
+}
